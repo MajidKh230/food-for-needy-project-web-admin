@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap");
+@import "../../color";
+
+.navbar {
+  background-color: rgb(129, 183, 30) !important;
+  font-family: "Oswald", sans-serif !important;
+}
+
+.logoutButton {
+  border: 3px solid white !important;
+  padding: 7px 20px 7px 20px !important;
+  border-radius: 50px !important;
+}
+
+.logoutButton:hover {
+  background-color: rgb(165, 230, 44) !important;
+}
